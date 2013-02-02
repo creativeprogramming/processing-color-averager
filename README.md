@@ -1,4 +1,4 @@
-processing-color-averager
+Processing Color Averager
 =========================
 
 Averages colors from a video source, and fills a canvas with that color
