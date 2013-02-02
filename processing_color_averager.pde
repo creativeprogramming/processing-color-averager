@@ -7,7 +7,7 @@ Version 1.0
 
 --------------------------------------------
 
-Copyright 2013 Luke Libraro
+Copyright 2013 DraftFCB Chicago
 
 Licensed under the Eclipse Public License, Version 1.0 (the "License");
 you may not use this file except in compliance with the License.
